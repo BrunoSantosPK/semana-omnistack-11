@@ -1,0 +1,24 @@
+Limpando o código
+-> Em src:
+--> App.css
+--> App.text.js
+--> index.css
+--> logo.svg
+--> serviceWorker.js
+--> setupTests.js
+
+-> Em public:
+--> logo192.png
+--> logo512.png
+--> manifest.json
+--> robots.txt
+
+JSX: XML + JS
+Componente: Classe que retorna um html
+As propriedades são elementos passandos como propriedades dentro das tags.
+
+props.children => propriedade padrão
+
+npm install react-icons
+npm install react-router-dom
+npm install axios
